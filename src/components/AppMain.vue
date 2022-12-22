@@ -894,7 +894,7 @@ export default {
       margin: 0 80px 60px 80px;
     }
     .banner_bottom {
-      margin: 0 0 60px 0;
+      margin: 0;
     }
     .rating {
       display: flex;
@@ -1003,7 +1003,7 @@ export default {
     }
     .banner_bottom {
       flex-direction: column;
-      margin: 0 0 60px 0;
+      margin: 0;
 
       &-img {
         width: 100%;
@@ -1126,6 +1126,7 @@ export default {
     }
     .banner_bottom {
       border-radius: 10px;
+      margin: 0 16px;
     }
     .popular {
       padding: 40px 16px 0 16px;
